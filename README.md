@@ -1,7 +1,7 @@
 # Lucky25sn.github.io
 ---
 # 1. Created the CV
-#Evidence:
+# Evidence:
 # Lucky July Twala
 
 ## 📍 Contact Information
@@ -102,7 +102,7 @@ National Senior Certificate (NSC) – 2022
 **Reflection🧠 (STAR Method):**
 
 ## 1. Situation:
-** As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
+* As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
 
 ## 2. Task:
 * My task was to prepare for the mock interview by developing clear answers to different types of questions (general, behavioural,    technical, and skills-based) and apply techniques to remain calm and confident.
