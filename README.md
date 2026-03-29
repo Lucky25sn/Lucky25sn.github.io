@@ -98,7 +98,7 @@ National Senior Certificate (NSC) – 2022
 ![image alt](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Presentation%20Mock%20Interview.png)
 [View full presentation on OneDrive](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx)
 
-🧠**Reflection (STAR Method):**
+**Reflection🧠 (STAR Method):**
 
 1. Situation:
    As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
