@@ -100,14 +100,14 @@ National Senior Certificate (NSC) – 2022
 
 **Reflection🧠 (STAR Method):**
 
-1. Situation:
-As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
+## 1. Situation:
+* As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
 
-2. Task:
-My task was to prepare for the mock interview by developing clear answers to different types of questions (general, behavioural,    technical, and skills-based) and apply techniques to remain calm and confident.
+## 2. Task:
+* My task was to prepare for the mock interview by developing clear answers to different types of questions (general, behavioural,    technical, and skills-based) and apply techniques to remain calm and confident.
 
-3. Action:
-I prepared answers to questions such as my passions, my skills, how I handled mistakes, and my understanding of industry challenges. I practiced structuring my responses clearly and speaking confidently. During the interview, I applied calming techniques such as controlled breathing and maintaining focus.
+## 3. Action:
+* I prepared answers to questions such as my passions, my skills, how I handled mistakes, and my understanding of industry challenges. I practiced structuring my responses clearly and speaking confidently. During the interview, I applied calming techniques such as controlled breathing and maintaining focus.
 
-4. Result:
-I was able to answer questions more confidently and in a structured way. The experience improved my communication skills and helped me manage interview anxiety. I also gained a better understanding of how to present my skills and experiences professionally.
+## 4. Result:
+* I was able to answer questions more confidently and in a structured way. The experience improved my communication skills and helped me manage interview anxiety. I also gained a better understanding of how to present my skills and experiences professionally.
