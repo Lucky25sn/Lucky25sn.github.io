@@ -95,18 +95,19 @@ National Senior Certificate (NSC) – 2022
 
 # Mock Interview
 ---
-![image alt]https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Presentation%20Mock%20Interview.png
-[View full presentation on OneDrive]https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx
-## 🧠 Reflection (STAR Method)
+![image alt](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Presentation%20Mock%20Interview.png)
+[View full presentation on OneDrive](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx)
 
-### **Situation**
-As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
+🧠**Reflection (STAR Method):**
 
-### **Task**
-My task was to prepare for the mock interview by developing clear answers to different types of questions (general, behavioural, technical, and skills-based) and apply techniques to remain calm and confident.
+1. Situation:
+   *As part of our Work Readiness training, we were instructed to create a professional CV and later participate in a mock interview. Before the interview, we also attended training sessions on how to stay calm and manage nervousness during interviews.
 
-### **Action**
-I prepared answers to questions such as my passions, my skills, how I handled mistakes, and my understanding of industry challenges. I practiced structuring my responses clearly and speaking confidently. During the interview, I applied calming techniques such as controlled breathing and maintaining focus.
+2. Task:
+   *My task was to prepare for the mock interview by developing clear answers to different types of questions (general, behavioural,    technical, and skills-based) and apply techniques to remain calm and confident.
 
-### **Result**
-I was able to answer questions more confidently and in a structured way. The experience improved my communication skills and helped me manage interview anxiety. I also gained a better understanding of how to present my skills and experiences professionally.
+3. Action:
+   *I prepared answers to questions such as my passions, my skills, how I handled mistakes, and my understanding of industry challenges. I practiced structuring my responses clearly and speaking confidently. During the interview, I applied calming techniques such as controlled breathing and maintaining focus.
+
+4. Result:
+   *I was able to answer questions more confidently and in a structured way. The experience improved my communication skills and helped me manage interview anxiety. I also gained a better understanding of how to present my skills and experiences professionally.
